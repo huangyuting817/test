@@ -1,5 +1,6 @@
 # test
 测试
+<<<<<<< Updated upstream
 我在github上直接新增的
 =======
 
